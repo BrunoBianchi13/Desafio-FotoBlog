@@ -1,4 +1,4 @@
-<h1 align="center"> Desafio avançado - Recriando layout</h1>
+<h1 align="center"> Desafio FotoBlog - Criando uma galeria de fotos com recurso grid</h1>
 
 <p align="center">
 Programa exclusivo do Bruno Bianchi, para ensino de tecnologias WEB. <br/>
